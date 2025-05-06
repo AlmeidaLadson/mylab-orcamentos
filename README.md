@@ -53,25 +53,25 @@ Este aplicativo foi desenvolvido como parte de um projeto de extensão acadêmic
 ![Tela Inicial](./assets/tela-inicial.jpeg)
 
 ### Tela de Novo Orçamento
-![Tela de Cadastro](./assets/tela-novo-orcamento.jpeg)
+![Tela de Novo Orçamento](./assets/tela-novo-orcamento.jpeg)
 
 ### Erro Preencha Todos os Campos
-![Erro Preenchimento de Campos](./assets/tela-erro-preencha-campos.jpeg)
+![Erro Preencha Todos os Campos](./assets/tela-erro-preencha-campos.jpeg)
 
 ### Erro Preencha Todos os Campos
-![Campos Validados com Máscaras](./assets/tela-masked-text.jpeg)
+![Erro Preencha Todos os Campos](./assets/tela-masked-text.jpeg)
 
 ### Lista de Orçamentos
-![Lista](./assets/tela-lista-orcamento.jpeg)
+![Lista de Orçamentos](./assets/tela-lista-orcamento.jpeg)
 
 ### Informações do Orçamento
-![Visão Geral do Orçamento](./assets/tela-info-orcamento.jpeg)
+![Informações do Orçamento](./assets/tela-info-orcamento.jpeg)
 
 ### Editar Orçamento
-![Editar](./assets/tela-editar.jpeg)
+![Editar Orçamento](./assets/tela-editar.jpeg)
 
 ### Confirmar Edição
-![Confirmação](./assets/tela-confirma-editar.jpeg)
+![Confirmar Edição](./assets/tela-confirma-editar.jpeg)
 
 ### Excluir Orçamento
-![Confirmar Excluir](./assets/tela-confirmar-excluir.jpeg)
+![Excluir Orçamento](./assets/tela-confirmar-excluir.jpeg)
