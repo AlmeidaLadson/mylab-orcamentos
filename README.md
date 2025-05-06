@@ -71,7 +71,7 @@ Este aplicativo foi desenvolvido como parte de um projeto de extensão acadêmic
 ![Editar](./assets/tela-editar.jpeg)
 
 ### Confirmar Edição
-![Confirmação](./assets/tela-confirmar-editar.jpeg)
+![Confirmação](./assets/tela-confirma-editar.jpeg)
 
 ### Excluir Orçamento
 ![Confirmar Excluir](./assets/tela-confirmar-excluir.jpeg)
