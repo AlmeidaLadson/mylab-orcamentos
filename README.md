@@ -52,8 +52,8 @@ Este aplicativo foi desenvolvido como parte de um projeto de extensão acadêmic
 ### Tela Inicial
 ![Tela Inicial](./assets/tela-inicial.jpeg)
 
-### Tela de Novo Orçamento
-![Tela de Novo Orçamento](./assets/tela-novo-orcamento.jpeg)
+### Tela Novo Orçamento
+![Tela Novo Orçamento](./assets/tela-novo-orcamento.jpeg)
 
 ### Erro Preencha Todos os Campos
 ![Erro Preencha Todos os Campos](./assets/tela-erro-preencha-campos.jpeg)
@@ -73,5 +73,5 @@ Este aplicativo foi desenvolvido como parte de um projeto de extensão acadêmic
 ### Confirmar Edição
 ![Confirmar Edição](./assets/tela-confirma-editar.jpeg)
 
-### Excluir Orçamento
-![Excluir Orçamento](./assets/tela-confirmar-excluir.jpeg)
+### Confirmar Excluir
+![Confirmar Excluir](./assets/tela-confirmar-excluir.jpeg)
